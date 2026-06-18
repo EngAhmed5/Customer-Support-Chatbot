@@ -1,0 +1,18 @@
+=== Per-Class Classification Report (CATEGORY) ===
+              precision    recall  f1-score   support
+
+     ACCOUNT       1.00      1.00      1.00       898
+      CANCEL       1.00      1.00      1.00       142
+     CONTACT       1.00      1.00      1.00       300
+    DELIVERY       1.00      1.00      1.00       299
+    FEEDBACK       1.00      1.00      1.00       300
+     INVOICE       1.00      1.00      1.00       300
+       ORDER       1.00      1.00      1.00       598
+     PAYMENT       1.00      1.00      1.00       300
+      REFUND       1.00      1.00      1.00       449
+    SHIPPING       1.00      1.00      1.00       295
+SUBSCRIPTION       1.00      0.99      1.00       150
+
+    accuracy                           1.00      4031
+   macro avg       1.00      1.00      1.00      4031
+weighted avg       1.00      1.00      1.00      4031

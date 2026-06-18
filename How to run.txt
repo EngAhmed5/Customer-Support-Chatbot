@@ -1,0 +1,4 @@
+1. Open Anaconda CMD 
+2. conda activate llms
+3. cd /d "D:\Ahmed\Study\NLP\Practical Project final version\Customer Service ChatBot"
+4. streamlit run app.py  
